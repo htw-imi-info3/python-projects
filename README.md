@@ -7,4 +7,4 @@ If you are ok with maintaining your python project publicly on github, either ad
 ## Photosort
 by Christian Wolter, Jonas Mantay
 
-[Link to Repository]([https://www.example.com](https://github.com/mantayjon/htw_info3_lab03))
+[Link to Repository](https://www.example.com](https://github.com/mantayjon/htw_info3_lab03)
